@@ -15,7 +15,7 @@ conda create -n crispr
   ```
   conda activate crispr
   ```
-  - And then
+ - And then
   
   ```
  ./vcf-cas-offinder.py -i chr1.vcf.gz -r /home/abyot/training/crispritz/genome-file/genome-file-test/gzchr1.fa -t generated_sequences.txt -d G1
