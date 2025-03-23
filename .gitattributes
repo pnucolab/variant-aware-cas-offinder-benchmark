@@ -1,1 +1,2 @@
 gzchr1.fa filter=lfs diff=lfs merge=lfs -text
+gzchr1.fa.gz filter=lfs diff=lfs merge=lfs -text
