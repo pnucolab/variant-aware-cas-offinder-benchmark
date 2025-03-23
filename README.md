@@ -18,5 +18,5 @@ conda create -n crispr
  - And then
   
   ```
- ./vcf-cas-offinder.py -i chr1.vcf.gz -r /full/refe-genome/path/ -t generated_sequences.txt -d G1
+ ./vcf-cas-offinder.py -i chr1.vcf.gz -r /refe-genome/full/path/ -t generated_sequences.txt -d G1
 ```
